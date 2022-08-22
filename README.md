@@ -1,5 +1,7 @@
 # dylansmith/shopify-cli
 
+Docker Hub: https://hub.docker.com/repository/docker/dylansmith/shopify-cli
+
 ## Description
 
 A lightweight Shopify CLI container intended for CI, based on ruby:3-alpine.
